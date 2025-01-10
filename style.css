@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+.head{
+    color :white;
+    text-align: center;
+}
+.image{
+    height: 200px;
+    border-radius: 10px;
+}
+.movieTi{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.para{
+    
+}
